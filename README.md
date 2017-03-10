@@ -53,7 +53,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## TIMELINE
 
-> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1T3A_lZtaI7uZt3kkF2wZZ7sfjczOqB8dnax3BTJkvJk/edit?usp=sharing).
+> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1bAnAIpMvC825dbYkeO20drGj5JB1IiG-B0PXjv-mqEA/edit#gid=0).
 
 
 * **Friday, March 10 pm && Monday March 13 am** - Present your app plan to your assigned instructor. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
