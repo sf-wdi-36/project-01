@@ -56,10 +56,9 @@ If you want to push yourself and learn something new, optionally consider doing 
 > DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1T3A_lZtaI7uZt3kkF2wZZ7sfjczOqB8dnax3BTJkvJk/edit?usp=sharing).
 
 
-* **Wednesday, April 6th by 3:00pm** - Present your app plan to your assigned instructor. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
-* **Weekdays, April 7th-11th** - Standups @ 10:00am. Afternoon 1:1s with instructors.
-* **Monday, April 11th** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
-* **Tuesday, April 12th @ 10am** - Project due and presentations!
+* **Friday, March 10 pm && Monday March 13 am** - Present your app plan to your assigned instructor. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
+* **Thursday, March 16 afternoon** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
+* **Friday, March 17 @ 10am** - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 
