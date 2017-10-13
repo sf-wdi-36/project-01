@@ -77,29 +77,21 @@ See the [feedback document](./feedback.md) for the criteria on which your projec
 
 ## TEAM SQUADS
 
-- Anthony
-- Austin
+- Anthony & Austin
 
-- Kenneth
-- Ken
+- Kenneth & Ken
 
-- Nick
-- Eri
+- Nick & Eri
 
-- Sherwin
-- Tahl
+- Sherwin & Tahl
 
-- Stephanie
-- Levi
+- Stephanie & Levi
 
-- Ray
-- Masha
+- Ray & Masha
 
-- Peng
-- Sherri
+- Peng & Sherri
 
-Tucker
-Beth
+- Tucker & Beth
 
 
 ## ACCESS TO INSTRUCTORS
