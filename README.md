@@ -76,26 +76,27 @@ If you want to push yourself and learn something new, optionally consider doing 
 See the [feedback document](./feedback.md) for the criteria on which your project will be evaluated.
 
 ## TEAM SQUADS
-Anthony
-Austin
 
-Kenneth
-Ken
+- Anthony
+- Austin
 
-Nick
-Eri
+- Kenneth
+- Ken
 
-Sherwin
-Tahl
+- Nick
+- Eri
 
-Stephanie
-Levi
+- Sherwin
+- Tahl
 
-Ray
-Masha
+- Stephanie
+- Levi
 
-Peng
-Sherri
+- Ray
+- Masha
+
+- Peng
+- Sherri
 
 Tucker
 Beth
